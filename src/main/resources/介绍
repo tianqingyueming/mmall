@@ -1,0 +1,2 @@
+generatorConfig.xml是Mybatis的配置文件
+applicationContext.xml和applicationContext-datasource.xml是spring的配置文件
